@@ -1,5 +1,5 @@
-#*Estudiante UPA*🤪#
-- Experiencia en:
+# *Estudiante UPA*🤪
+Experiencia en:
 - Fortnite 
 - League of Legends
 - Apex Legends👻
