@@ -1,9 +1,8 @@
-#*Estudiante UPA*🤪
--Experiencia en:
--Fortnite 
--League of Legends
--Apex Legends👻
--
+#*Estudiante UPA*🤪#
+- Experiencia en:
+- Fortnite 
+- League of Legends
+- Apex Legends👻
 <!--
 **up250150lge/up250150lge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
